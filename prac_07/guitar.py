@@ -3,7 +3,7 @@ class Guitar:
         self.name = name
         self.year = int(year)
         self.cost = cost
-
+#ss
     def __str__(self):
         return f"{self.name}  ({self.year} :{self.cost})"
 

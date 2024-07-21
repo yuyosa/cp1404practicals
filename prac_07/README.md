@@ -1,5 +1,5 @@
 # Practical 07
-
+     
 ## Details about the author: This knowledge base is maintained by [Haojia]. 
     I am currently a student in the CP1404 course and currently focusing on improving my software development skills.
 
