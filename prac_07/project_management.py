@@ -74,7 +74,7 @@ def add_project(projects):
     completion = int(input("Percent complete: "))
     new_project = Project(name, start_date, priority, cost, completion)
     projects.append(new_project)
-
+#ss
 
 def filter_projects(projects):
     filter_date = input("Show projects that start after date (dd/mm/yy): ")

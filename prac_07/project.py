@@ -7,7 +7,7 @@ class Project:
         self.completion = completion_percentage
 
 
-
+#s
 
     def __repr__(self):
         start_date_str = self.start.strftime("%d/%m/%Y")
